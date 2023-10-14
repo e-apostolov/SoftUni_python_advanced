@@ -1,0 +1,1 @@
+{"username": "eapostolov", "password": "123", "first_name": "Evgeni", "last_name": "Apostolov", "products": [2, 3]}
